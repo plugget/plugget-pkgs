@@ -9,4 +9,4 @@ manifest should have
 - repo_url: the URL of the git repo 
 - subdir (optional): set a subdirectory if the plugin is not in the root of the repo
 
-public manifest repo for [plugget](https://github.com/hannesdelbeke/plugget)
+public manifest repo for [plugget](https://github.com/hannesdelbeke/plugget), imitating structure of [winget community repo](https://github.com/microsoft/winget-pkgs)
