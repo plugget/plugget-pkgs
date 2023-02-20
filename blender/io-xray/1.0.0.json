@@ -1,4 +1,5 @@
 {
 "name": "io-xray",
-"repo_url": "https://github.com/PavelBlend/blender-xray?Path=io_scene_xray"
+"repo_url": "https://github.com/PavelBlend/blender-xray",
+"subdir": "io_scene_xray"
 }
