@@ -2,5 +2,6 @@
 "plugin_name": "DTB",
 "name": "DazToBlender",
 "repo_url": "https://github.com/daz3d/DazToBlender",
-"subdir": "Blender/appdata_common/Blender Foundation/Blender/BLENDER_VERSION/scripts/addons/DTB"
+"subdir": "Blender/appdata_common/Blender Foundation/Blender/BLENDER_VERSION/scripts/addons/DTB",
+"docs_url": "https://www.daz3d.com/daz-to-blender-bridge"
 }
