@@ -1,0 +1,7 @@
+{
+"name": "UV Packer",
+"repo_url": "https://github.com/3d-io/uvpacker-blender-addon",
+"subdir": "uv-packer",
+"plugin_name": "uv-packer",
+"docs_url": "https://doc.uv-packer.com/Usage-Blender.html"
+}
