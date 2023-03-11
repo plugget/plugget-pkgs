@@ -1,4 +1,4 @@
 {
 "repo_url": "https://github.com/purplepuppet/blender",
-"subdir": "addons/purple_puppet"
+"repo_paths": ["addons/purple_puppet"]
 }
