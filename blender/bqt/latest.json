@@ -1,0 +1,6 @@
+{
+"plugin_name": "bqt",
+"action_kwargs": {"plugin_name": "bqt"}
+"repo_url": "https://github.com/techartorg/bqt",
+"repo_paths": ["bqt"]
+}
