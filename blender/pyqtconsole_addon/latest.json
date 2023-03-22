@@ -1,3 +1,4 @@
 {
-	"repo_url": "https://github.com/hannesdelbeke/pyqtconsole_addon"
+	"repo_url": "https://github.com/hannesdelbeke/pyqtconsole_addon",
+	"repo_paths": ["pyqtconsole_addon.py"]
 }
