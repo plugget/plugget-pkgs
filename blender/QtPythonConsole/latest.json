@@ -1,6 +1,5 @@
 {
 	"repo_url": "https://github.com/Ahuge/QtPythonConsole",
-	"repo_paths": ["qt_python_console_addon.py"],
 	"dependencies": [
 		"bqt"
 	]
