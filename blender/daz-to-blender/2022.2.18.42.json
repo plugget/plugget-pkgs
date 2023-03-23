@@ -1,5 +1,4 @@
 {
-"plugin_name": "DTB",
 "name": "DazToBlender",
 "repo_url": "https://github.com/daz3d/DazToBlender",
 "repo_paths": ["Blender/appdata_common/Blender Foundation/Blender/BLENDER_VERSION/scripts/addons/DTB"],
