@@ -1,3 +1,4 @@
 {
-"repo_url": "https://github.com/hannesdelbeke/pyqtconsole_krita.git"
+"repo_url": "https://github.com/hannesdelbeke/pyqtconsole_krita.git",
+"repo_paths": ["pyqtconsole_krita.py", "pyqtconsole_krita.desktop"]
 }
