@@ -1,0 +1,5 @@
+{
+"repo_url": "https://github.com/johnnygizmo/BulkAsset",
+"repo_paths": ["BulkAsset"],
+"description": "batch perform actions on multiple assets across multiple blend file"
+}
