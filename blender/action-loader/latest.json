@@ -1,0 +1,5 @@
+{
+"repo_url": "https://github.com/frederico4d/ActionLoader",
+"repo_paths": ["ActionLoader.py"],
+"description": "manage multiple actions / animations on the same character"
+}

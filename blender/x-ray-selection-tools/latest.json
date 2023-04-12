@@ -1,0 +1,6 @@
+{
+"repo_url": "https://github.com/MarshmallowCirno/XRay_Selection_Tools/",
+"repo_paths": ["space_view3d_xray_selection_tools"],
+"description": "This addon adds new box, circle and lasso selection tools that can automatically toggle x-ray shading, perform selection through with or without x-ray shading, select objects either inside or overlapping a selection area, change selection settings by changing drag direction of selection.",
+"docs": "https://marshmallowcirno.github.io/XRay_Selection_Tools/"
+}
