@@ -1,4 +1,4 @@
 {
-"repo_url": "https://github.com/dfki-ric/phobos",
-"repo_paths": ["phobos"]
+"repo_url": "https://github.com/nortikin/sverchok",
+"description": "Sverchok is a powerful parametric tool for architects, allowing geometry to be programmed visually with nodes"
 }
