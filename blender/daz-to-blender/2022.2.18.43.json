@@ -1,6 +1,7 @@
 {
 "name": "DazToBlender",
-"repo_url": "https://github.com/daz3d/DazToBlender@6360d6fbf2c886bfd66b140ce37045b7b2e389f6",
+"repo_url": "https://github.com/daz3d/DazToBlender",
+"repo_SHA": "6360d6fbf2c886bfd66b140ce37045b7b2e389f6",
 "repo_paths": ["Blender/appdata_common/Blender Foundation/Blender/BLENDER_VERSION/scripts/addons/DTB"],
 "docs_url": "https://www.daz3d.com/daz-to-blender-bridge"
 }
