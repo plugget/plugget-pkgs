@@ -1,0 +1,4 @@
+{
+"repo_url": "https://github.com/hannesdelbeke/buttonizer",
+"dependencies": ["blender:bqt"]
+}
