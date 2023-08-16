@@ -1,0 +1,5 @@
+{
+  "name": "render asset thumbnails addon",
+  "repo_url": "https://github.com/gruntworks/render_asset_thumbnails",
+  "repo_paths": ["render_thumbnails.py"]
+}
