@@ -1,4 +1,5 @@
 {
   "repo_url": "https://gitlab.com/tibicen/simple-asset-manager.git",
+  "repo_paths": ["SimpleAssetManager"],
   "repo_tag": "1.2.1"
 }
