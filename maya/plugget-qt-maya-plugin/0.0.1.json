@@ -1,3 +1,4 @@
 {
-"repo_url": "https://github.com/plugget/plugget-qt-maya-plugin"
+"repo_url": "https://github.com/plugget/plugget-qt-maya-plugin",
+  "repo_paths" : ["plugget_qt_maya_plugin.py"]
 }
