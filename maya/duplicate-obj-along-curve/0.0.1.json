@@ -1,0 +1,4 @@
+{
+  "repo_url": "https://github.com/hannesdelbeke/maya-plugin-duplicate-obj-along-curve",
+  "repo_paths" : ["dupe_obj_curve_plugin.py", "duplicateObjAloneCurve.py"]
+}
