@@ -1,0 +1,5 @@
+{
+"repo_url": "https://github.com/BobDoleOwndU/BlenderWeightTransferTool",
+"repo_paths": ["WeightTranfer.py"],
+"description": "Tool to transfer weights between meshes"
+}

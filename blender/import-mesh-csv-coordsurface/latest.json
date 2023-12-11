@@ -1,0 +1,5 @@
+{
+"repo_url": "https://github.com/niasw/import_mesh_CSV_CoordSurface",
+"repo_paths": ["import_mesh_CSV_CoordSurface.py"],
+"description": "Transfer/Import coordinates data into new mesh surface"
+}

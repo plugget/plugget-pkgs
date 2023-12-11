@@ -1,0 +1,5 @@
+{
+"repo_url": "https://github.com/SudeepRed/ShapeKeyTransfer_Addon_Blender",
+"repo_paths": ["ShapeKeyTransferTool.py"],
+"description": "An Addon to Transfer ShapeKeys between a Source Object and a Destination Object"
+}

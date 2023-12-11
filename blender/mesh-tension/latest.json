@@ -1,0 +1,5 @@
+{
+"repo_url": "https://github.com/chiragraman/mesh-tension",
+"repo_paths": ["mesh_tension.py"],
+"description": "add-on for computing tension maps"
+}

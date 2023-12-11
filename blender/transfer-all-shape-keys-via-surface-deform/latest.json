@@ -1,0 +1,5 @@
+{
+"repo_url": "https://github.com/konoha18537007/TransferAllShapeKeysViaSurfaceDeform",
+"repo_paths": ["transfer_all_shape_keys_via_surface_deform.py"],
+"description": "Transfer the active object's shape keys to the non-active selected objects via surface deform modifier"
+}
