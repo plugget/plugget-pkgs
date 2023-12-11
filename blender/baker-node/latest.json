@@ -1,0 +1,4 @@
+{
+"repo_url": "https://github.com/avelgest/baker-node",
+"description": "A Blender add-on that adds a node to the Shader Editor which can bake its input to an image, vertex attribute or sculpt mask with one click"
+}

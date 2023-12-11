@@ -1,0 +1,5 @@
+{
+"repo_url": "https://github.com/shteeve3d/blender-wiggle",
+"repo_paths": ["wiggle_bones.py"],
+"description": "addon for wiggle physics"
+}

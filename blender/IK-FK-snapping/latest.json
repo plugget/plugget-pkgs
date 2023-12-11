@@ -1,0 +1,5 @@
+{
+"repo_url": "https://github.com/Mystfit/IK-FK-Snapping-for-Blender",
+"repo_paths": ["IK-FK_snapping.py"],
+"description": "Blender addon to perform IK/FK matching for animators and riggers"
+}

@@ -1,0 +1,5 @@
+{
+"repo_url": "https://github.com/PetteriAimonen/blender_addons",
+"repo_paths": ["trianglefill.py"],
+"description": "add-on fills the selected face with small regular triangles"
+}

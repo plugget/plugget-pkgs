@@ -1,0 +1,5 @@
+{
+"repo_url": "httpsgithub.comhannesdelbekeblender-transfer-vertex-order-addon",
+"repo_paths": ["transfer_vertex_order.py"],
+"description": "transfer vertex order from one mesh to another mesh"
+}
