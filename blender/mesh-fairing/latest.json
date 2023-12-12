@@ -1,4 +1,8 @@
 {
 "repo_url": "https://github.com/fedackb/mesh-fairing",
-"description": "smooth meshes without artifacts"
+"description": "smooth meshes without artifacts",
+  "actions" : [
+    ("blender_requirements", {"requirements": ["scipy"]}),
+    "blender_addon"
+  ]
 }
