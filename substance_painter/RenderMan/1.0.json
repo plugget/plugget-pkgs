@@ -1,0 +1,5 @@
+{
+"repo_url": "https://github.com/prman-pixar/RfSP",
+"repo_paths": ["plugin/renderman.rcc", "plugin/renderman_for_sp.py", "plugin/renderman_rules.json"],
+"description": "This plugin exports your Substance Painter project as one or more RenderManAsset"
+}
