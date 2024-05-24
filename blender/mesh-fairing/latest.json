@@ -1,7 +1,7 @@
 {
-"repo_url": "https://github.com/fedackb/mesh-fairing",
-"description": "smooth meshes without artifacts",
-  "actions" : [
+  "repo_url": "https://github.com/fedackb/mesh-fairing",
+  "description": "smooth meshes without artifacts",
+  "install_actions" : [
     {
       "name": "blender_requirements",
       "kwargs": {

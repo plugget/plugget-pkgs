@@ -1,4 +1,4 @@
 {
   "repo_url": "https://github.com/hannesdelbeke/dark-listener-3ds-max-plugin",
-  "actions": ["max3ds_plugin"]
+  "install_actions": ["max3ds_plugin"]
 }

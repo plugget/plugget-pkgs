@@ -1,4 +1,11 @@
 {
 "repo_url": "https://github.com/plugget/plugget-unreal-plugin",
-"repo_paths": ["Plugget"]
+"repo_paths": ["Plugget"],
+  "actions": [
+    {
+      "label": "Open Plugget",
+      "command": "import plugget_qt;w = plugget_qt.show()"
+    }
+  ],
+"docs_url": "https://github.com/plugget/plugget-unreal-plugin"
 }
