@@ -1,4 +1,5 @@
 {
 "repo_url": "https://github.com/techartorg/bqt",
-"repo_paths": ["bqt"]
+"repo_paths": ["bqt"],
+  "repo_tag": "master"
 }
