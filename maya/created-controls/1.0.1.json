@@ -1,0 +1,16 @@
+{
+  "repo_url": "https://github.com/hannesdelbeke/maya-created-controls",
+  "repo_paths" : ["createdControls"],
+  "install_actions": ["maya_module"],
+  "actions" : [
+    {
+      "label": "open the tool",
+      "command": "import maya.mel; maya.mel.eval('source \"Created_controls_1_01.mel\";')"
+    },
+    {
+      "label": "enable plugin",
+      "command": "import plugget.actions._maya_utils;plugget.actions._maya_utils.enable_plugin(name='created_controls', quiet=False)"
+    }
+  ]
+}
+
