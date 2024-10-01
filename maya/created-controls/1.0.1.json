@@ -1,6 +1,6 @@
 {
   "repo_url": "https://github.com/hannesdelbeke/maya-created-controls",
-  "repo_paths" : ["createdControls"],
+  "repo_paths" : ["createdControls", "createdControls.mod"],
   "install_actions": ["maya_module"],
   "actions" : [
     {
