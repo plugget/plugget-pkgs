@@ -6,6 +6,10 @@
     {
       "label": "enable plugin",
       "command": "import plugget.actions._maya_utils;plugget.actions._maya_utils.enable_plugin(name='created_controls', quiet=False)"
+    },
+    {
+      "label": "open the tool",
+      "command": "import maya.mel; maya.mel.eval('source \"Created_controls_1_01.mel\";')"
     }
   ]
 }
