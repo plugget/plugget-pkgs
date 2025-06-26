@@ -1,0 +1,10 @@
+{
+    "docs_url": "https://doc.qt.io/qtforpython-6/examples/example_gui_analogclock.html",
+    "actions": [
+        {
+            "label": "Show clock",
+            "command": "from PySide6.QtGui import QGuiApplication;import PySide6.examples.gui.analogclock.main as main;app = QGuiApplication.instance() or QGuiApplication();clock = main.AnalogClockWindow();clock.show()"
+        }
+    ],
+	"dependencies": ["PySide6_Examples"]
+}
