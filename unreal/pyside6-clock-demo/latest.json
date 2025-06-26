@@ -3,7 +3,7 @@
     "actions": [
         {
             "label": "Show clock",
-            "command": "from PySide6.QtGui import QGuiApplication;import PySide6.examples.gui.analogclock.main as main;app = QGuiApplication.instance() or QGuiApplication();clock = main.AnalogClockWindow();clock.show()"
+            "command": "from PySide6.QtGui import QGuiApplication;import PySide6.examples.gui.analogclock.main as main;app = QGuiApplication.instance() or QGuiApplication();global clock; clock = main.AnalogClockWindow();clock.show()"
         }
     ],
     "install_actions" : [
